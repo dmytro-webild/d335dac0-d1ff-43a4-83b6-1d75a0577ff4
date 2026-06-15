@@ -30,7 +30,7 @@ export default function HomePage() {
           imageSrc: "http://img.b2bpic.net/free-photo/business-professionals-using-analytics-reports-papers-review-progress_482257-122889.jpg",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/technological-devices-with-statistics-documents_1232-485.jpg",
+          imageSrc: "https://images.pexels.com/photos/4373997/pexels-photo-4373997.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=4373997",
         },
       ]}
     />
