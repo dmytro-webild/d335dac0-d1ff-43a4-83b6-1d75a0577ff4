@@ -15,7 +15,7 @@ export default function HomePage() {
     <SectionErrorBoundary name="hero">
           <HeroSplitMediaGrid
       tag="Your Growth Partner"
-      title="Data-Driven Marketing for Scaling Brands"
+      title="Driven Marketing for Scaling Brands"
       description="We specialize in high-impact performance marketing that turns visitors into loyal customers. Let us scale your revenue with precision."
       primaryButton={{
         text: "Book Strategy Call",
