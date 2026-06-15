@@ -87,7 +87,7 @@ export default function HomePage() {
         },
         {
           tag: "Execution",
-          title: "Performance Marketing",
+          title: "Yoy yooyaoayoa",
           description: "Data-driven ads that convert across all platforms.",
           primaryButton: {
             text: "Learn More",
@@ -98,7 +98,7 @@ export default function HomePage() {
         {
           tag: "Engagement",
           title: "Content Strategy",
-          description: "Engaging storytelling that keeps your audience coming back.",
+          description: "Let's go ski ",
           primaryButton: {
             text: "Learn More",
             href: "#",
